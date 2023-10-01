@@ -1,2 +1,2 @@
 
-a **Hello World** in Haskel
+a starting point for learning **Haskel**
